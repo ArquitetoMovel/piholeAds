@@ -1,0 +1,5 @@
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+tps.doubleverify.com
+cdn.doubleverify.com
+stats.g.doubleclick.net
